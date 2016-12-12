@@ -8,7 +8,7 @@
 <VersionNumber type="integer">2016110100</VersionNumber>
 <!-- THIS NEEDS TO BE EDITED EVERY NEW UPDATE -->
 <!--  FILE OTA URL  -->
-<DirectUrl>http://otatest.himax.co.id/himax/test_update.zip</DirectUrl>
+<DirectUrl>https://github.com/AlwiensPanic/otatest/raw/master/sign_ota11.zip</DirectUrl>
 <!-- Android Version -->
 <Android>6.0.1</Android>
 <!-- THIS NEEDS TO BE EDITED EVERY NEW UPDATE -->
