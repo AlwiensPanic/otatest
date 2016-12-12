@@ -5,7 +5,7 @@
 <VersionName>Himax_m21s</VersionName>
 <!-- THIS NEEDS TO BE EDITED EVERY NEW UPDATE -->
 <!--  format YYYYMMDDXX XX is buildnumber  -->
-<VersionNumber type="integer">2016110100</VersionNumber>
+<VersionNumber type="integer">M21S_KK_M001-1</VersionNumber>
 <!-- THIS NEEDS TO BE EDITED EVERY NEW UPDATE -->
 <!--  FILE OTA URL  -->
 <DirectUrl>https://github.com/AlwiensPanic/otatest/raw/master/sign_ota11.zip</DirectUrl>
