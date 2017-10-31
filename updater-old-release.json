@@ -1,0 +1,26 @@
+[
+  {
+    "prerelease": "false",
+    "stable": "true",
+    "latest" : "true",
+    "tag_name": "Build Name",
+    "id": 1,
+    "name": "test.zip",
+    "release_date": "2016-12-20T20:16:02Z",
+    "browser_download_url": "https://raw.githubusercontent.com/panicDev/otatest/master/updater.zip",
+    "body": "This is my change log",
+    "version" : "20161230"
+  },
+  {
+    "prerelease": "false",
+    "stable": "true",
+    "tag_name": "Build 2 Name",
+    "id": 2,
+    "name": "test.zip",
+    "release_date": "2016-12-20T20:16:02Z",
+    "browser_download_url": "https://raw.githubusercontent.com/panicDev/otatest/master/updater.zip",
+    "body": "This is my change log",
+    "version" : "20161220"
+  }
+
+]
